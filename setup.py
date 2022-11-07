@@ -7,5 +7,4 @@ setup(
     description="Reward Point System for Dunder Mifflin",
     author="Breno do Carmo",
     packages=find_packages()
-
 )
